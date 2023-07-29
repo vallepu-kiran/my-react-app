@@ -69,7 +69,7 @@ function ShowDetails() {
     </Dropdown>
         
       </div>
-      <div class="col-md-1 p-2 " style={{color}}>More </div> 
+      <div class="col-md-1 p-2 ">More </div> 
       <div class="col-md-1 p-2 ">
       {numEpisodesToShow < episodes.length && (
         <div className="col-md-2" key={episodes[0].season}>
