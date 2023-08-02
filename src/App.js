@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from './Layout';
 import ShowDetails from './ShowDetails';
 import Seasons from './Seasons';
+import { Navbar } from 'react-bootstrap';
 
 function App() {
   return (
